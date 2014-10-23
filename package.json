@@ -1,0 +1,36 @@
+{
+  "name": "observ-incrdecr",
+  "version": "0.0.1",
+  "description": "An observable storing an integer with events for increment or decrementing this value",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashnur/observ-incrdecr.git"
+  },
+  "keywords": [
+    "observ",
+    "observable",
+    "incrdecr",
+    "increment",
+    "decrement",
+    "integer",
+    "mercury"
+  ],
+  "author": "ashnur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashnur/observ-incrdecr/issues"
+  },
+  "homepage": "https://github.com/ashnur/observ-incrdecr",
+  "devDependencies": {
+    "tape": "^3.0.1"
+  },
+  "dependencies": {
+    "geval": "^2.1.1",
+    "observ-confined": "0.0.2",
+    "observ-struct": "^6.0.0"
+  }
+}
