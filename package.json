@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "geval": "^2.1.1",
-    "observ-confined": "0.0.2",
+    "observ-confined": "0.0.5",
     "observ-struct": "^6.0.0"
   }
 }
