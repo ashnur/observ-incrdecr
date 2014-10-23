@@ -1,6 +1,6 @@
 {
   "name": "observ-incrdecr",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An observable storing an integer with events for increment or decrementing this value",
   "main": "index.js",
   "scripts": {
